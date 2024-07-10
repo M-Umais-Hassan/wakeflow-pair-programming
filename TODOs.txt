@@ -1,8 +1,0 @@
-1. done with basic strucutre app strucutre - DONE
-2. making routes and controllers - DONE
-3. error handling
-4. openai setup
-5. logic building
-6. esprima (no maintanance for past 6 years)
-7. acorn (well maintained and updated size is also half 518kb)
-8. vm (no maintanance since 8 years) 
